@@ -2,6 +2,10 @@
 
 ![An example of generated terrain](readmebanner.png?raw=true)
 
+
+https://github.com/user-attachments/assets/bd3f7894-53c7-43ce-95d8-2319cfdf7612
+
+
 This project is based on my (Cal's) implementation of Projects 5 & 6 for Brown's CS 1230, using the OpenGL Realtime pipeline
 
 ## How To Run
